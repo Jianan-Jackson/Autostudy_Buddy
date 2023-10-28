@@ -1,0 +1,8 @@
+mindsdb
+openai
+numpy
+langchain
+together
+fastapi
+google-api-python-client
+wikipedia
